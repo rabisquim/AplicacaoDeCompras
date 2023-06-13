@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-//Jaraguá do Sul, SC - Brasil | 2023 | Alura
+//@Robson Paulo | Jaraguá do Sul, SC - Brasil | 2023 | Alura
 
 public class Principal {
     public static void main(String[] args) {
