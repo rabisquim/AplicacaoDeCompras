@@ -69,7 +69,7 @@ Saldo do cartão: R$ 998.00
 
 ## Autores
 
-- Robson Paulo
+Robson Paulo
 
 ## Observações
 
